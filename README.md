@@ -7,9 +7,9 @@
 - We used PRAW for data fetching.
 
 ## Tools & Technologies
-- NetworkX
-- Gephi
-- Python
+- **NetworkX**
+- **Gephi**
+- **Python**
 
 ## Key Observations & Analysis
 - In Reddit communities, some individuals act as influencers.
@@ -25,6 +25,6 @@
 
 - **Influential Person**: A user who is both popular and well-connected to other influential users or highly interactive community members, typically identified by high eigen vector centrality.
 
-
 <br>
-<em>This project explores Reddit's social network dynamics, emphasizing the significance of inter-subreddit interactions and the roles of influential and popular users.</em>
+<em>This project explores Reddit's social network dynamics, emphasizing the significance of inter-subreddit interactions and the roles of influential and popular users. All rights reserved to the owner of the repository.</em>
+
