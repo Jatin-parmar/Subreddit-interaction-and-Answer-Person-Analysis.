@@ -1,4 +1,4 @@
- # Social Network Analysis
+# Social Network Analysis
 
 ## Social Nodes
 - Analyzing Inter-Subreddit Interaction and User Roles
@@ -26,4 +26,5 @@
 - **Influential Person**: A user who is both popular and well-connected to other influential users or highly interactive community members, typically identified by high eigen vector centrality.
 
 
-This project explores Reddit's social network dynamics, emphasizing the significance of inter-subreddit interactions and the roles of influential and popular users.
+<br>
+<em>This project explores Reddit's social network dynamics, emphasizing the significance of inter-subreddit interactions and the roles of influential and popular users.</em>
